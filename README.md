@@ -1,4 +1,5 @@
-# Olá Mundo!
+# Olá Mundo!!
 
  Primeiro repositório do curso de GIT
- Primeiro criado durante a aula ao vivo!
+
+ Repositório criado durante a aula ao vivo!
